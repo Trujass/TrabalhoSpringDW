@@ -10,10 +10,10 @@
 Listar todos os jogadores: http://localhost:8000/jogador/listar 
 <br>
 ($${\color{blue}GET}$$)
-Listar jogador por id: http://localhost:8000/jogador/listarId/{cod_jogador} <- <i>Substituir {cod_jogador} por id da tabela</i>
+Listar jogador por id: http://localhost:8000/jogador/listarId/{cod_jogador} <--- <i>Substituir {cod_jogador} por id da tabela</i>
 <br>
 ($${\color{green}POST}$$)
-Cadastrar novo jogador: http://localhost:8000/jogador/create --- <i>Body da requisição: </i>
+Cadastrar novo jogador: http://localhost:8000/jogador/create <--- <i>Body da requisição: </i>
 <br>
 {
   "nome": "TesteTeste",
@@ -23,7 +23,7 @@ Cadastrar novo jogador: http://localhost:8000/jogador/create --- <i>Body da requ
 <br>
 <br>
 ($${\color{teal}PUT}$$)
-Atualizar jogador: http://localhost:8000/jogador/update/{cod_jogador} --- <i>Body da requisição:</i>
+Atualizar jogador: http://localhost:8000/jogador/update/{cod_jogador} <--- <i>Body da requisição:</i>
 <br>
 {
   "nome": "teste",
