@@ -1,8 +1,8 @@
 # TrabalhoSpringDW
 
 <h3>Integrantes:</h3>
-<p>Henrique Ribeiro Trujillo RA: 20015723</p>
-<p>João Victor Ferreira Kinkoski RA: 22014923</p>
+<p>Henrique Ribeiro Trujillo <strong>RA</strong>: 20015723</p>
+<p>João Victor Ferreira Kinkoski <strong>RA</strong>: 22014923</p>
 
 <h2>Jogador</h2>
 
